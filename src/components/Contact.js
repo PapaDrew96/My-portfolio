@@ -104,7 +104,6 @@ const ContactWrapper = styled.div`
 // List of contact information with icons
 const contactInfo = [
   { label: 'Email', value: 'a.karaleftheris@outlook.com' },
-  { label: 'Phone', value: '+30-6971531121' },
   { label: 'Location', value: 'Athens, Greece' },
   {
     label: 'LinkedIn',

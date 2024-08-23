@@ -1,7 +1,7 @@
 // pages/Home.js
 import React from 'react';
 import styled from 'styled-components';
-import profileImage from '../images/profile.jpg'; // Adjust the path as necessary
+import profileImage from '../images/profile1.jpg'; // Adjust the path as necessary
 import backgroundImage from '../images/fog.jpg'; // Adjust the path as necessary
 import AnimatedWrapper from '../AnimatedWrapper';
 
